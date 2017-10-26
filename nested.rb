@@ -64,6 +64,7 @@ def dennis_ritchies_language
 	puts "dennis_ritchies_language"
 	binding.pry
 end
+dennis_ritchies_language
 
 def adding_matz
 # add the following information to the top level of programmer_hash
